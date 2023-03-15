@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 71798b3e241a18d4cb64e111606e2113
+timeCreated: 1488550236
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature_000
+    100002: Armature_001
+    100004: Bone
+    100006: Bone 1
+    100008: Bottom door
+    100010: Bottom door 1
+    100012: Camera
+    100014: Camera_target
+    100016: Chair
+    100018: Chair_001
+    100020: Chair_2
+    100022: Chair_2_001
+    100024: Circle
+    100026: Cooker
+    100028: Cooker_001
+    100030: Cooker_armature
+    100032: Dish_000
+    100034: Dish_001
+    100036: Door
+    100038: Door_000
+    100040: Door_001
+    100042: Drying_mat
+    100044: Fence
+    100046: Fridge
+    100048: Fridge_armature
+    100050: Fridge_simple
+    100052: Fridge_simple_armature
+    100054: Fruit_bowl
+    100056: Glass
+    100058: Glass_001
+    100060: Ground
+    100062: //RootNode
+    100064: Knife
+    100066: Lamp
+    100068: Mat
+    100070: Overhead_cupboard
+    100072: Pepper
+    100074: Plant
+    100076: Pot
+    100078: Rinse_agent
+    100080: Room
+    100082: Room_001
+    100084: Room_002
+    100086: Salt
+    100088: Sugar
+    100090: Sun
+    100092: Sun_001
+    100094: Sun_002
+    100096: Sun_003
+    100098: Sun_004
+    100100: Table
+    100102: Tap
+    100104: Tissue_holder
+    100106: Top door
+    100108: Trash
+    100110: Upper door
+    100112: Window_1
+    100114: Window_1_001
+    100116: Worktop
+    400000: Armature_000
+    400002: Armature_001
+    400004: Bone
+    400006: Bone 1
+    400008: Bottom door
+    400010: Bottom door 1
+    400012: Camera
+    400014: Camera_target
+    400016: Chair
+    400018: Chair_001
+    400020: Chair_2
+    400022: Chair_2_001
+    400024: Circle
+    400026: Cooker
+    400028: Cooker_001
+    400030: Cooker_armature
+    400032: Dish_000
+    400034: Dish_001
+    400036: Door
+    400038: Door_000
+    400040: Door_001
+    400042: Drying_mat
+    400044: Fence
+    400046: Fridge
+    400048: Fridge_armature
+    400050: Fridge_simple
+    400052: Fridge_simple_armature
+    400054: Fruit_bowl
+    400056: Glass
+    400058: Glass_001
+    400060: Ground
+    400062: //RootNode
+    400064: Knife
+    400066: Lamp
+    400068: Mat
+    400070: Overhead_cupboard
+    400072: Pepper
+    400074: Plant
+    400076: Pot
+    400078: Rinse_agent
+    400080: Room
+    400082: Room_001
+    400084: Room_002
+    400086: Salt
+    400088: Sugar
+    400090: Sun
+    400092: Sun_001
+    400094: Sun_002
+    400096: Sun_003
+    400098: Sun_004
+    400100: Table
+    400102: Tap
+    400104: Tissue_holder
+    400106: Top door
+    400108: Trash
+    400110: Upper door
+    400112: Window_1
+    400114: Window_1_001
+    400116: Worktop
+    2300000: Chair
+    2300002: Chair_001
+    2300004: Chair_2
+    2300006: Chair_2_001
+    2300008: Circle
+    2300010: Dish_000
+    2300012: Dish_001
+    2300014: Drying_mat
+    2300016: Fence
+    2300018: Fruit_bowl
+    2300020: Glass
+    2300022: Glass_001
+    2300024: Ground
+    2300026: Knife
+    2300028: Lamp
+    2300030: Mat
+    2300032: Overhead_cupboard
+    2300034: Pepper
+    2300036: Plant
+    2300038: Pot
+    2300040: Rinse_agent
+    2300042: Room
+    2300044: Room_001
+    2300046: Room_002
+    2300048: Salt
+    2300050: Sugar
+    2300052: Table
+    2300054: Tap
+    2300056: Tissue_holder
+    2300058: Trash
+    2300060: Window_1
+    2300062: Window_1_001
+    2300064: Worktop
+    3300000: Chair
+    3300002: Chair_001
+    3300004: Chair_2
+    3300006: Chair_2_001
+    3300008: Circle
+    3300010: Dish_000
+    3300012: Dish_001
+    3300014: Drying_mat
+    3300016: Fence
+    3300018: Fruit_bowl
+    3300020: Glass
+    3300022: Glass_001
+    3300024: Ground
+    3300026: Knife
+    3300028: Lamp
+    3300030: Mat
+    3300032: Overhead_cupboard
+    3300034: Pepper
+    3300036: Plant
+    3300038: Pot
+    3300040: Rinse_agent
+    3300042: Room
+    3300044: Room_001
+    3300046: Room_002
+    3300048: Salt
+    3300050: Sugar
+    3300052: Table
+    3300054: Tap
+    3300056: Tissue_holder
+    3300058: Trash
+    3300060: Window_1
+    3300062: Window_1_001
+    3300064: Worktop
+    4300000: Plant
+    4300002: Cooker
+    4300004: Cooker_001
+    4300006: Fridge_simple
+    4300008: Fridge
+    4300010: Fruit_bowl
+    4300012: Table
+    4300014: Circle
+    4300016: Chair
+    4300018: Room
+    4300020: Ground
+    4300022: Window_1
+    4300024: Window_1_001
+    4300026: Worktop
+    4300028: Mat
+    4300030: Tap
+    4300032: Door_001
+    4300034: Pepper
+    4300036: Tissue_holder
+    4300038: Pot
+    4300040: Dish_001
+    4300042: Overhead_cupboard
+    4300044: Glass
+    4300046: Lamp
+    4300048: Drying_mat
+    4300050: Sugar
+    4300052: Rinse_agent
+    4300054: Trash
+    4300056: Knife
+    4300058: Fence
+    4300060: Room_001
+    4300062: Room_002
+    9500000: //RootNode
+    13700000: Cooker
+    13700002: Cooker_001
+    13700004: Door_000
+    13700006: Door_001
+    13700008: Fridge
+    13700010: Fridge_simple
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
